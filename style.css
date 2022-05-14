@@ -47,13 +47,13 @@ h1 {
 
 }
 
-#top-banner {
+.top-banner {
 
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
 }
 
-#dream-bg {
+.dream-bg {
 
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
