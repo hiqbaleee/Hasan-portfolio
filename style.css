@@ -32,6 +32,7 @@ h1 {
     padding-left: 10%;
 
     margin-top: 8%;
+
 }
 
 .Button-style {
@@ -58,4 +59,44 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 
+}
+
+.box-shadow {
+
+    box-shadow: 10px 10px 40px rgb(199, 192, 192);
+
+    width: 40%;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 3px;
+    border-left: 5px solid green;
+
+}
+
+.experience-area {
+
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 200px;
+}
+
+#box-radius {
+    border-image: linear-gradient(orange, red);
+    border-left: 7px solid;
+    border-image-slice: 1;
+}
+
+#box-radius2 {
+
+    border-image: linear-gradient(rgb(77, 31, 240), rgb(93, 206, 123));
+    border-radius: 7px solid;
+    border-image-slice: 1;
+
+}
+
+.footer {
+    text-align: center;
+    margin-top: 80px;
 }
